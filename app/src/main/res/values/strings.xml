@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sub2StoryApp</string>
+
+    <string name="password_more_6">Password harus lebih dari 6 karakter</string>
+    <string name="title_welcome_page">Selamat datang di Story App</string>
+    <string name="message_welcome_page">Mau menjelajahi keseruan untuk mengetahui postingan terbaru, yuk bergabung di StoryApp!</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="copyright">© 2022 Muhammad Ridho Abdillah</string>
+    <string name="title_register_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="title_login_page">Sudah siap untuk menjelajahi keseruan di Story App?</string>
+    <string name="register_success">Yeay, akun Anda telah berhasil didaftarkan :)</string>
+    <string name="failed_register">Register gagal :(</string>
+    <string name="failed_login">Login gagal :(</string>
+    <string name="login_succes">Login berhasil :)</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="story_description">Deskripsi Story</string>
+    <string name="maps">Peta</string>
+    <string name="logout">Keluar</string>
+    <string name="upload_your_story">Upload story Anda</string>
+    <string name="take_picture">Ambil gambar</string>
+    <string name="open_gallery">Buka galeri</string>
+    <string name="upload_story_succes">Upload story berhasil :)</string>
+    <string name="failed_upload_story">Upload story gagal :(</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="failed_get_location">Gagal mendapatkan lokasi user :(</string>
+    <string name="story_uploaded_by">Story telah diupload oleh</string>
+    <string name="location_not_available">Lokasi tidak tersedia</string>
+    <string name="current_location">Lokasi saat ini</string>
+
+</resources>
